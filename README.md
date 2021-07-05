@@ -8,7 +8,7 @@ Single-cell analysis of developing imaginal discs
 
 ## Please contact us with questions! 
 
-* Melanie I. Worley, Ph.D.(https://sites.google.com/view/melanieworley/home?authuser=0/)  (mworley@berkeley.edu)
+* [Melanie I. Worley, Ph.D.](https://sites.google.com/view/melanieworley/home?authuser=0/)  (mworley@berkeley.edu)
 
 * Nicholas J. Everetts (nicholas_everetts@berkeley.edu)
 
