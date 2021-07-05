@@ -4,9 +4,7 @@ Melanie I. Worley * <sup> 1</sup>, Nicholas J. Everetts * <sup> 1, 2</sup>, Riku
 (*</sup> co-first authorship)
 
 <sup>1</sup> Department of Molecular and Cell Biology, University of California, Berkeley.
-
 <sup>2</sup> Department of Electrical Engineering and Computer Science, Center for Computational Biology, University of California, Berkeley.
-
 <sup>3</sup> Chan Zuckerberg Biohub Investigator, San Francisco, CA USA.
 
 
