@@ -6,7 +6,7 @@ Melanie I. Worley * <sup> 1</sup>, Nicholas J. Everetts * <sup> 1, 2</sup>, Riku
 Single-cell analysis of developing imaginal discs
 
 
-We used [scvi-tools](https://yoseflab.github.io/software/scvi-tools/) to analyze single-cell RNAseq data.
+We used [scvi-tools](https://scvi-tools.org/) to analyze single-cell RNAseq data.
 
 
 
